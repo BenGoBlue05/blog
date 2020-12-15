@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3ad7577-570a-46b6-87c2-8b8695fa00bb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/post-details.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +59,7 @@
       <updated>1607972903711</updated>
       <workItem from="1607972904824" duration="17128000" />
       <workItem from="1608003245042" duration="1479000" />
-      <workItem from="1608056488141" duration="12206000" />
+      <workItem from="1608056488141" duration="12622000" />
     </task>
     <task id="LOCAL-00001" summary="Add home page">
       <created>1607993585510</created>
@@ -84,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608071726093</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fix headers">
+      <created>1608072796740</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608072796740</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +99,7 @@
     <MESSAGE value="Add home page" />
     <MESSAGE value="fix card and add images" />
     <MESSAGE value="add missing requirements" />
-    <option name="LAST_COMMIT_MESSAGE" value="add missing requirements" />
+    <MESSAGE value="fix headers" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix headers" />
   </component>
 </project>
