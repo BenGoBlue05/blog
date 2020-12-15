@@ -2,8 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3ad7577-570a-46b6-87c2-8b8695fa00bb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/styles/layout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/styles/typography.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/styles/widgets.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/post-details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/card.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles/card.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/post-details.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/post-details.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/profile-section.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles/profile-section.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/socialmedia.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles/socialmedia.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +58,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/img" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css/styles" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -59,7 +72,7 @@
       <updated>1607972903711</updated>
       <workItem from="1607972904824" duration="17128000" />
       <workItem from="1608003245042" duration="1479000" />
-      <workItem from="1608056488141" duration="12622000" />
+      <workItem from="1608056488141" duration="14498000" />
     </task>
     <task id="LOCAL-00001" summary="Add home page">
       <created>1607993585510</created>
@@ -89,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608072796740</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="fix post details">
+      <created>1608073226664</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1608073226664</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +120,7 @@
     <MESSAGE value="fix card and add images" />
     <MESSAGE value="add missing requirements" />
     <MESSAGE value="fix headers" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix headers" />
+    <MESSAGE value="fix post details" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix post details" />
   </component>
 </project>

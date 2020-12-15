@@ -1,0 +1,15 @@
+.header {
+    background-color: blue;
+    color: white;
+    padding: 16px;
+}
+
+.button {
+    background-color: blue;
+    color: white;
+    border-radius: 8px;
+    padding: 0.5em;
+    height: fit-content;
+    width: fit-content;
+    font-size: 22px;
+}

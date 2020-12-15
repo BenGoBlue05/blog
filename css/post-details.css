@@ -1,3 +1,13 @@
+@import "styles/socialmedia.css";
+@import "styles/typography.css";
+@import "styles/layout.css";
+@import "styles/profile-section.css";
+@import "styles/widgets.css";
+
+body {
+    background-color: lightgray;
+}
+
 .post-details-container {
     display: grid;
 }

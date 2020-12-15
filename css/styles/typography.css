@@ -1,0 +1,28 @@
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    color: white;
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    color: darkblue;
+}
+
+h3 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    text-decoration: underline;
+    font-style: italic;
+    color: darkblue;
+}
+
+h5 {
+    color: darkblue;
+}
+
+p {
+    color: navy;
+    font-weight: 300;
+}
