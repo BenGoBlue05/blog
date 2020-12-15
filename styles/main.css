@@ -1,0 +1,100 @@
+/* override browser default */
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+/* use viewport-relative units to cover page fully */
+body {
+    height: 100vh;
+    width: 100vw;
+}
+
+/* include border and padding in element width and height */
+* {
+    box-sizing: border-box;
+}
+
+/* full-sized  container that fills up the page */
+div {
+    width: 100%;
+}
+
+body {
+    font-family: "Roboto";
+    background-color: rgb(228, 225, 225);
+}
+
+.grid-layout {
+    display: grid;
+    grid-template-columns: 1fr;
+}
+
+.header {
+    background-color: blue;
+    color: white;
+    padding: 16px;
+}
+
+.button {
+    background-color: blue;
+    color: white;
+    border-radius: 8px;
+    padding: 0.5em;
+    width: 30%;
+    font-size: 22px;
+    font-family: 'Roboto';
+}
+
+.content {
+    grid-area: ct;
+}
+
+.footer {
+    grid-area: ft;
+    margin-bottom: 10px;
+}
+
+.card {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-areas: "ch ch ch" "pic bt bt" "cf cf cf";
+    border-radius: 8px;
+    margin-top: 16px;
+    margin-left: 16px;
+    margin-right: 16px;
+    padding: 0.8em;
+    background-color: white;
+}
+
+.card-header {
+    grid-area: ch;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.card-image {
+    grid-area: pic;
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+}
+
+.blog-text {
+    grid-area: bt;
+}
+
+.card-footer {
+    grid-area: cf;
+    position: relative;
+    left: 70%;
+}
+
+@media (min-width: 1000px) {
+
+    .grid-layout {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
