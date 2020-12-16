@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f3ad7577-570a-46b6-87c2-8b8695fa00bb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles/typography.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles/typography.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/post-details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +62,7 @@
       <updated>1607972903711</updated>
       <workItem from="1607972904824" duration="17128000" />
       <workItem from="1608003245042" duration="1479000" />
-      <workItem from="1608056488141" duration="16135000" />
+      <workItem from="1608056488141" duration="17007000" />
     </task>
     <task id="LOCAL-00001" summary="Add home page">
       <created>1607993585510</created>
@@ -107,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608075281884</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add blockquote and url link styles">
+      <created>1608076807170</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1608076807170</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,6 +126,7 @@
     <MESSAGE value="fix headers" />
     <MESSAGE value="fix post details" />
     <MESSAGE value="restructure css" />
-    <option name="LAST_COMMIT_MESSAGE" value="restructure css" />
+    <MESSAGE value="add blockquote and url link styles" />
+    <option name="LAST_COMMIT_MESSAGE" value="add blockquote and url link styles" />
   </component>
 </project>
