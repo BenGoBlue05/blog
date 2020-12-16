@@ -23,6 +23,24 @@ h5 {
 }
 
 p {
-    color: navy;
+    font-family: 'Roboto', sans-serif;
+    color: midnightblue;
     font-weight: 300;
+}
+
+a {
+    color: blue;
+    font-weight: 300;
+    font-style: italic;
+}
+
+blockquote {
+    font-size: 1.6rem;
+    font-style: italic;
+    color: #777;
+    font-weight: 400;
+    padding-left: 1rem;
+    border-left: 8px solid #FBD26B;
+    margin-left: 1rem;
+    margin-bottom: 3rem;
 }
